@@ -1,0 +1,548 @@
+@media screen and (max-width: 1200px) and (min-width: 993px) {
+	.header-menu{
+		width: 60%;
+	}
+
+	.header-title{
+		font-size: 36px;
+	}
+
+	.services-item-header{
+		font-size: 21px;
+	}
+
+	.services-item-text{
+		width: 84%;
+	}
+
+	.team{
+		height: auto;
+	}
+
+	.team-item{
+		width: 46.22%;
+		margin: 0 2.51% 45px;			
+	}
+
+	.team-item:nth-child(2n){
+		margin-left: 0;
+	}
+
+	.footer-link{
+		font-size: 18px;
+	}
+}
+
+@media screen and (max-width: 992px) and (min-width: 769px) {
+	
+	.container{
+		width: 100%;
+	}
+
+	.header-menu{
+		width: 62%;
+	}
+
+	.header-menu-link{
+		font-size: 16px;
+	}
+
+	.header-title{
+		font-size: 33px;
+	}
+
+	.header-button{
+		width: 38%;
+		border-radius: 8px;
+	}
+
+	.header-button-text{
+		font-size: 20px;
+	}
+
+	.services-item-header{
+		font-size: 20px;
+	}
+
+	.services-item-text{
+		width: 88%;
+		font-size: 15px;
+	}
+
+	.team{
+		height: auto;
+	}
+
+	.team-item{
+		width: 46.22%;
+		margin: 0 2.51% 45px;			
+	}
+
+	.team-item:nth-child(2n){
+		margin-left: 0;
+	}
+
+	.skills-bar-item{
+		width: 50%;
+		margin: 0 0 35px;
+	}
+
+	.skills-bar-item:first-child{
+		margin-left: 0;
+	}
+
+	.touch-info{
+		font-size: 16px;
+	}
+
+	.footer-link{
+		font-size: 15px;
+	}
+}
+
+@media screen and (max-width: 768px) and (min-width: 480px) {
+	
+	.container{
+		width: 100%;
+	}
+
+	.header{
+		height: 500px;
+	}
+
+	.header-logo{
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+
+	.header-logo-img{
+		margin: 45px 0 0;
+
+	}
+
+	.header-menu{
+		width: 100%;
+		margin: 30px 0 60px;
+	}
+
+	.header-menu-link{
+		font-size: 15px;
+	}
+
+	.header-menu-item:first-child{
+		margin-left: 2%;
+	}
+
+	.header-title{
+		font-size: 80px;
+	}
+
+	.header-title_480-hide{
+		display: none;
+	}
+
+	.header-button{
+		width: 65%;
+		border-radius: 8px;
+		margin-top: 168px;
+	}
+
+	.header-button-text{
+		font-size: 21px;
+	}
+
+	.services{
+		height: 1050px;
+	}
+
+	.services-header{
+		padding-top: 70px;
+		font-size: 36px;
+	}
+
+	.services-info{
+		width: 90%;
+	}
+
+	.services-item{
+		width: 50%;
+		margin-right: 0;
+		margin-bottom: 50px;
+	}
+
+	.services-item:first-child{
+		margin-left: 0;
+	}
+
+	.services-item-header{
+		font-size: 20px;
+	}
+
+	.services-item-text{
+		width: 88%;
+		font-size: 15px;
+	}
+
+	.services-info{
+		width: 65.75%;
+	}
+
+	.team{
+		height: auto;
+	}
+
+	.team-header{
+		width: 100%;
+		padding-top: 70px;
+		font-size: 36px;
+		padding-bottom: 75px;
+	}	
+
+	.team-info{
+		width: 90%;
+	}
+
+	.team-item{
+		width: 46.22%;
+		margin: 0 2.51% 45px;			
+	}
+
+	.team-item:nth-child(2n){
+		margin-left: 0;
+	}
+
+	.team-item-review{
+		font-size: 13px;
+	}
+
+	.skills-bar-item{
+		width: 50%;
+		margin: 0 0 35px;
+	}
+
+	.skills-bar-item:first-child{
+		margin-left: 0;
+	}
+
+	.portfolio{
+		padding-bottom: 70px;
+	}
+
+	.portfolio-gallery-item{
+		width: 100%;
+		margin-right: 0;
+		float: none;
+		text-align: center;
+	}
+
+	.portfolio-gallery-item:nth-child(odd){
+		margin-left: 0;
+	}
+
+	.portfolio-btn,
+	.touch-btn{
+		width: 60%;
+		border-radius: 8px;
+	}
+
+	.portfolio-btn-text,
+	.touch-btn-text{
+		font-size: 21px;
+	}
+
+	.touch{
+		padding-bottom: 70px;
+	}
+
+	.touch-info{
+		width: 100%;
+		font-size: 16px;
+	}
+
+	.touch-form{
+		width: 90%;	
+	}
+
+	.touch-item{
+		width: 100%;
+	}
+
+	.touch-item:first-child{
+		margin-bottom: 28px;
+	}
+
+	.footer{
+		height: auto;
+		line-height: 45px;
+		padding-top: 30px;
+		padding-bottom: 20px;
+	}
+
+	.footer-link{
+		display: block;
+		margin: 0 auto;
+		width: 50%;
+		height: 60px;
+		font-size: 24px;
+	}
+
+	.footer-link:last-child{
+		margin-right: auto;
+	}
+}
+
+@media screen and (max-width: 479px) and (min-width: 320px) {
+	.container{
+		width: 100%;
+	}
+
+	.header{
+		height: 500px;
+	}
+
+	.header-logo{
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+
+	.header-logo-img{
+		margin: 25px 0 0;
+
+	}
+
+	.header-menu{
+		width: 100%;
+		margin: 30px 0 20px;
+	}
+
+	.header-menu-link{
+		font-size: 20px;
+	}
+
+	.header-menu-item{
+		width: 100%;
+		text-align: center;
+	}
+
+	.header-menu-item:first-child{
+		margin-left: 0;
+	}
+
+	.header-title{
+		font-size: 72px;
+	}
+
+	.header-title_480-hide{
+		display: none;
+	}
+
+	.header-button{
+		width: 65%;
+		border-radius: 8px;
+		margin-top: 240px;
+	}
+
+	.header-button-text{
+		font-size: 21px;
+	}
+
+	.services{
+		height: auto;
+	}
+
+	.services-header{
+		padding-top: 50px;
+		font-size: 32px;
+		padding-bottom: 74px;
+	}
+
+	.services-info{
+		width: 98%;
+	}
+
+	.services-item{
+		width: 100%;
+		margin-right: 0;
+		margin-bottom: 20px;
+	}
+
+	.services-item:first-child{
+		margin-top: 15px;
+	}
+
+	.services-item-header{
+		font-size: 20px;
+		margin: 20px auto 10px;
+	}
+
+	.services-item-text{
+		width: 88%;
+		font-size: 15px;
+	}
+
+	.team{
+		height: auto;
+	}
+
+	.team-header{
+		width: 100%;
+		padding-top: 50px;
+		font-size: 32px;
+		padding-bottom: 75px;
+	}	
+
+	.team-info{
+		width: 92%;
+	}
+
+	.team-item{
+		width: 100%;
+		height: 440px;
+		margin: 0 0 45px;			
+	}
+
+	.team-item:nth-child(2n){
+		margin-left: 0;
+	}
+
+	.team-item-mate{
+		margin-top: 25px;
+	}
+
+	.team-item-profession{
+		margin-bottom: 10px;
+	}
+
+	.team-item-review{
+		font-size: 13px;
+		margin-bottom: 10px;
+		padding-bottom: 10px;
+	}
+
+	.skills-header{
+		width: 100%;
+		padding-top: 50px;
+		font-size: 32px;
+		padding-bottom: 46px;
+	}
+
+	.skills-info{
+		width: 99%;
+	}
+
+	.skills-bar-item{
+		width: 100%;
+		margin: 0 0 35px;
+	}
+
+	.skills-bar-item:first-child{
+		margin-left: 0;
+	}
+
+	.portfolio{
+		padding-bottom: 70px;
+	}
+
+	.portfolio-header{
+		width: 100%;
+		padding-top: 50px;
+		font-size: 32px;
+		padding-bottom: 46px;
+	}
+
+	.portfolio-info{
+		width: 99%;
+		margin-bottom: 70px;
+	}
+
+	.portfolio-sector{
+		width: 95%;
+	}
+
+	.portfolio-sector-btn{
+		float: left;
+		width: 100%;
+		margin: 0 0 10px;
+	}
+
+	.portfolio-gallery{
+		margin-bottom: 0;
+	}
+
+	.portfolio-gallery-item{
+		width: 100%;
+		margin-right: 0;
+		float: none;
+		text-align: center;
+	}
+
+	.portfolio-gallery-item:nth-child(odd){
+		margin-left: 0;
+	}
+
+	.portfolio-btn,
+	.touch-btn{
+		width: 80%;
+		border-radius: 8px;
+	}
+
+	.portfolio-btn-text,
+	.touch-btn-text{
+		font-size: 21px;
+		margin-top: -14px;
+	}
+
+	.touch{
+		padding-bottom: 70px;
+	}
+
+	.touch-header{
+		width: 100%;
+		padding-top: 50px;
+		font-size: 32px;
+		padding-bottom: 46px;
+	}
+
+	.touch-info{
+		width: 100%;
+		font-size: 16px;
+		padding-bottom: 30px;
+	}
+
+	.touch-form{
+		width: 90%;	
+	}
+
+	.touch-item{
+		width: 100%;
+	}
+
+	.touch-item:first-child{
+		margin-bottom: 28px;
+	}
+
+	.touch-message{
+		margin-bottom: 70px;
+	}
+
+	.footer{
+		height: auto;
+		line-height: 45px;
+		padding-top: 30px;
+		padding-bottom: 10px;
+	}
+
+	.footer-link{
+		display: block;
+		margin: 0 auto;
+		width: 50%;
+		height: 60px;
+		font-size: 24px;
+	}
+
+	.footer-link:last-child{
+		margin-right: auto;
+	}
+}
